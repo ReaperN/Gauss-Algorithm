@@ -1,4 +1,4 @@
 # Gauss-Algorithm
 Java Program to Implement Gaussian Elimination Algorithm
 
-NOTE: It was a quest for a German Students, that's the reson why many variables have german names.
+NOTE: It was a script for a German Students, that's the reson why many variables have German names.
